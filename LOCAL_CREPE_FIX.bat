@@ -1,1 +1,1 @@
-python local_fixes.py
+runtime\python.exe local_fixes.py
